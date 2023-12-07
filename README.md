@@ -33,6 +33,15 @@ Foreign Keys:
     City Table: CountryCode (References Country table)
     CountryLanguage Table: CountryCode (References Country table)
 
+# Here are some example queries:
+-The population and life expectancy in Argentina are 37032000 and 75.1 respectively.
+![image](https://github.com/ajaykachhala/MYSQL-project/assets/105333994/e257d3af-1458-4e4d-989a-cabdd4656f70)
+
+-using order by, limit, Andorra has highest life expectancy of 83.5.
+![image](https://github.com/ajaykachhala/MYSQL-project/assets/105333994/62988dad-1af8-4e5f-b0f9-4c841d394744)
+
+
+
 Conclusion:
 
 The MySQL project using the World Database successfully explored different types of relationships, normalization, and executed diverse queries for insightful data retrieval. The EER diagram provided clarity on primary and foreign keys, essential for maintaining a well-structured and efficient relational database.
